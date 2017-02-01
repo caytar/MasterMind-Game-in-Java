@@ -1,2 +1,2 @@
-# MasterMind-Game-in-Java
-MasterMind Game implementation written in Java in 2007
+# MasterMind-Game
+Master Mind implementation with Java in 2006.
